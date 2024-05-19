@@ -1,0 +1,162 @@
+body{
+background-color:#DBD1D1;
+}
+
+img{
+width:200px;
+height:200px;
+}
+.image-container{
+  float: left;
+  width: 33.33%;
+ padding: 5px;
+}
+h1{
+font-family:small-caps 200%/200%
+serif;
+text-align:center;
+color:#9A8282;
+font-weight:500px;
+text-decoration:underline;
+}
+
+h2{
+font-family:ui-sans-serif;
+text-align:justify;
+color:#856666;
+font-size:medium;
+}
+.liss{
+color:#856666;
+text-align:center;
+font-size:medium;
+font-family:ui-sans-serfi;
+}
+.tabl{
+font-family:times, serif;
+color:#856666;
+font-size:larger;
+}
+.link{
+color:#856666;
+text-align:center;
+font-size:25px;
+}
+.lista{
+text-decoration-line:underline;
+font-size:larger;
+}
+h3{
+font-family:serif, times new roman;
+color:#B17575;
+font-size:small;
+}
+.tabla{
+font-family:times new roman, times;
+color:#B17575;
+font-size:large;
+}
+.tab{
+font-family:times new roman, times;
+color:#B17575;
+font-size:large;
+}
+
+
+ul {
+background:#f3f3f3;
+color:#8E745D;
+}
+.material{
+float:right;
+width:300px;
+height:200px;
+list-style-type:square;
+}
+li{
+font-family:serif, times new roman;
+font-size:medium;
+}
+.mat{
+font-family: times, serif;
+color:#63615F;
+font-size:larger;
+}
+ol {
+background:#f3f3f3;
+color:#8E745D;
+font-family:serif, times new roman;
+font-size:medium;
+}
+embed{
+width:150px;
+height:250px;
+}
+table{
+border-collapse:collapse;
+margin:25px 0;
+font-size:0.9em;
+min-width:400px;
+border-radius: 5px 5px 0 0;
+overflow:hidden;
+border:1px;
+}
+thead tr{
+background-color:#009879;
+color:#ffffff;
+text-align:center;
+font-weight:bold;
+}
+th,
+td{
+border-bottom:2px solid #dddddd;
+padding:12px 15px;
+}
+tr:hover {background-color:#D7BCA2;}
+tr:nth-child(even) {background-color: #f2f2f2;}
+th {
+  background-color: #04AA6D;
+  color: white;
+}
+
+
+tbody tr{
+border-bottom:2px solid #dddddd;
+}
+tbody tr:nth-of-type{
+background-color:#f3f3f3;
+}
+tbody tr:last-of-type{
+border-bottom:2px solid#8E745D;
+}
+
+
+.content-table{
+border-collapse:collapse;
+margin:25px 0;
+font-size:0.9em;
+min-width:400px;
+}
+.content-table thead tr{
+background-color:#009879;
+color:#ffffff;
+text-align:left;
+font-weight:bold;
+}
+.content-table th,
+.content-table td{
+padding:12px 15px;
+}
+.content-table tbody tr{
+border-bottom:1px solid #ddddd;
+}
+.content-table body tr: nth-of-type(even) {
+background-color:#f3f3f3;
+}
+.content-table tbody tr:last-of type {
+border-bottom:2px solid #009879;
+}
+</body>
+</html>
+
+

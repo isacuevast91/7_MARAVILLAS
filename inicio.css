@@ -1,0 +1,43 @@
+body{
+background-color:#CABBB8;
+}
+h1{
+font:small-caps 200%/200%
+serif;
+text-align:center;
+color:#746764;
+}
+h2{
+font-family:"homer simpson UI";
+text-align:justify;
+color:#5D5452;
+}
+.maravillas{font-family:serif;}
+body{
+background-color:#CABBB8;
+}
+h4{
+font:small-caps 100%/200%
+serif;
+text-align:center;
+color:#746764;
+}
+
+
+img{
+width:10%;
+height:10%;
+}
+
+h3{
+text-align:center;
+color:#90747C;
+}
+.nombre{text-align:right;}
+
+</body>
+</html>
+
+font-family:serif;
+
+line-height:150%;
